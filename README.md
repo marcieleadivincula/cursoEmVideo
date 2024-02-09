@@ -1,1 +1,1 @@
-Atividades realizadas durante as aulas da plataforma Curso em Vídeo.
+# Atividades realizadas durante as aulas da plataforma Curso em Vídeo.
